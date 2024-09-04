@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Randul Malinhara</h1>
-<h3 align="center">A passionate Software developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src='https://pa1.narvii.com/6440/7e010685cc0671e4be430186ab5678c4d81bbeb8_hq.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randul-malinhara&label=Profile%20views&color=0e75b6&style=flat" alt="randul-malinhara" /> </p>
