@@ -74,6 +74,15 @@
 
 ---
 
+### 📊 Languages Usage
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randul-Malinhara&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
+
+
+---
+
 ### 🏗️ Notable Projects
 #### **Self-Optimizing CI/CD Pipelines**
 - Developed algorithmic approaches to optimize CI/CD processes with self-tuning capabilities.
